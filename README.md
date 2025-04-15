@@ -1,4 +1,4 @@
-# ✨ Seamless Interaction through Gesture Recognition  
+# ✨ Seamless Interaction through Gesture Recognition 🎨🚀 
 ### Integrating Virtual Canvas, Keyboard, Calculator, and Mouse with Voice Assistance on a Unified Platform  
 [![IEEE Xplore](https://img.shields.io/badge/IEEE--Xplore-Link-blue)](https://ieeexplore.ieee.org/document/10939637)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20Code-2ea44f)](https://github.com/Yashas14/Seamless_Interaction_through_Gesture_Recognition)
