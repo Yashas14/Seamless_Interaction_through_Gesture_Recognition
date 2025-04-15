@@ -143,6 +143,7 @@ For questions, suggestions, or collaboration ideas, reach out to:
 **Yashas D**  
 📧 [GitHub Profile](https://github.com/Yashas14)  
 🌐 [Project Repository](https://github.com/Yashas14/Seamless_Interaction_through_Gesture_Recognition)
+🔗 **LinkedIn**: [Yashas D on LinkedIn](https://www.linkedin.com/in/yashasd2004/)
 
 
 
