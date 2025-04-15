@@ -3,7 +3,6 @@
 [![IEEE Xplore](https://img.shields.io/badge/IEEE--Xplore-Link-blue)](https://ieeexplore.ieee.org/document/10939637)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20Code-2ea44f)](https://github.com/Yashas14/Seamless_Interaction_through_Gesture_Recognition)
 
----
 
 ## 👋 Welcome to **Virtual Gesture Solutions** 🖐️🎨  
 
@@ -18,7 +17,6 @@ Developed with the vision of accessibility, innovation, and seamless digital int
 
 All fully controlled using **hand gestures and voice commands**, offering an immersive and touchless experience.
 
----
 
 ## 🌟 Project Overview
 
@@ -31,7 +29,6 @@ As digital devices evolve, so should the ways we interact with them. Our project
 
 > 🧠 *Blending cutting-edge technologies such as Computer Vision, AI, and Generative Models, this project offers a seamless multimodal interface like never before.*
 
----
 
 ## 💡 Motivation
 
@@ -40,7 +37,6 @@ In an era where **contactless interaction**, **health-conscious computing**, and
 - Support those with **motor disabilities**,
 - Enhance **user comfort** and **workflow speed** in creative and technical domains.
 
----
 
 ## 🚀 Features
 
@@ -66,7 +62,6 @@ In an era where **contactless interaction**, **health-conscious computing**, and
 - Tools to change **brush size**, **color**, **shapes**, and **eraser** with gestures.
 - **Live gesture feedback** and **export options** for your artwork.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -80,7 +75,6 @@ In an era where **contactless interaction**, **health-conscious computing**, and
 | Tkinter          | GUI design for the virtual tools                                        |
 | JSON             | Configuration and layout management                                     |
 
----
 
 ## 🧪 Performance & Metrics
 
@@ -91,7 +85,6 @@ In an era where **contactless interaction**, **health-conscious computing**, and
 | Virtual Calculator  | 99.8% calculation accuracy              | 30% faster than traditional methods    |
 | Virtual Canvas      | 93% drawing precision                   | 60 FPS rendering                       |
 
----
 
 ## 🖼️ Gesture Detection in Action
 
@@ -102,7 +95,7 @@ Gesture recognition is powered by **hand landmark detection** via MediaPipe and 
   <img src="https://github.com/user-attachments/assets/a3902816-edbe-4577-8cc5-31489ddb885e" width="400"/>
 </p>
 
----
+
 
 ## 🔮 Future Enhancements
 
@@ -112,7 +105,7 @@ Gesture recognition is powered by **hand landmark detection** via MediaPipe and 
 4. **Predictive Typing** – AI-powered suggestions for quicker text input.  
 5. **Smart Environment Adaptation** – Auto-adjust gesture detection under poor lighting.
 
----
+
 
 ## 🧩 Challenges Faced
 
@@ -122,17 +115,16 @@ Gesture recognition is powered by **hand landmark detection** via MediaPipe and 
 | User fatigue due to hand gestures     | Custom sensitivity settings and posture-aware feedback loop          |
 | Misrecognition of fast hand motions   | Applied smoothing filters & dynamic gesture windowing                |
 
----
+
 
 ## 📄 Research Publication
 
 This project was published in IEEE Xplore:  
-📘 **Title:** Seamless Interaction through Gesture Recognition  
+📘 **Title:** Seamless Interaction through Gesture Recognition: Integrating Virtual Canvas, Keyboard, Calculator And Mouse with Voice Assistance on a Unified Platform
 🔗 [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10939637)
 
 > 📌 *We hope our contribution inspires further research and development in gesture-based accessibility tools and multimodal interaction design.*
 
----
 
 ## 💬 Contributing
 
@@ -144,7 +136,6 @@ To get started:
 4. Push to the branch (`git push origin feature-name`) 🚀
 5. Open a pull request 📬
 
----
 
 ## 📫 Contact
 
@@ -153,10 +144,7 @@ For questions, suggestions, or collaboration ideas, reach out to:
 📧 [GitHub Profile](https://github.com/Yashas14)  
 🌐 [Project Repository](https://github.com/Yashas14/Seamless_Interaction_through_Gesture_Recognition)
 
----
+
 
 > ✨ Let's make technology more **human**, more **inclusive**, and more **seamless**.
 
----
-
-Would you like me to generate the `README.md` file ready for commit with all assets formatted and code-ready?
