@@ -103,7 +103,7 @@ Gesture recognition is powered by **hand landmark detection** via MediaPipe and 
 2. **Advanced brush tools** – Enable multi-layer design and shape libraries on canvas.  
 3. **Software integrations** – Integrate gesture control into Office, Photoshop, and other tools.  
 4. **Predictive Typing** – AI-powered suggestions for quicker text input.  
-5. **Smart Environment Adaptation** – Auto-adjust gesture detection under poor lighting.
+5. **Smart Environment Adaptation** – Auto-adjust gesture detection under poor lighting.  
 
 
 
