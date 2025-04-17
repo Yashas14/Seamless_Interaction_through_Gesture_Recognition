@@ -4,7 +4,7 @@
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Explore%20Code-2ea44f)](https://github.com/Yashas14/Seamless_Interaction_through_Gesture_Recognition) 
 
 
-## 👋 Welcome to **Virtual Gesture Solutions** 🖐️🎨  
+## 👋 Welcome to **Virtual Gesture Solutions** 🖐️🎨   
 
 Step into the **future of human-computer interaction**. This project redefines the way we interact with machines—replacing traditional input devices with a **gesture-driven**, **voice-assisted**, and **AI-enhanced** unified platform.
 
